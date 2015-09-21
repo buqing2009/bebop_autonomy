@@ -1,0 +1,23 @@
+<package>
+	<name>bebopBrainInterface</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is parrotBrainInterface.
+	</description>
+	<author email="buqing2009@gmail.com">BLuking</author>
+	<maintainer email="buqing2009@gmail.com">BLuking</maintainer>
+  	<license>BSD</license>
+	
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+  	<build_depend>bebopDriver</build_depend>
+
+
+	<run_depend>bebopDriver</run_depend>
+
+
+
+</package>
+
+
